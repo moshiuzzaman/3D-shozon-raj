@@ -294,9 +294,7 @@ a:focus {
     font-size: 77px;
     font-weight: bold;
     text-transform: uppercase;
-  }
-  
- .panel {
+  }.panel {
     display: none;
-} 
+  } 
 }
