@@ -291,8 +291,11 @@ a:focus {
     justify-content: center;
   }
   .frame__title {
-    font-size: 77px;
+    font-size: 20px;
     font-weight: bold;
     text-transform: uppercase;
+  }
+  .panel {
+    display: none !important;
   }
 }
