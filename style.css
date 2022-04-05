@@ -208,7 +208,9 @@ a:focus {
   position: relative;
   z-index: 1000;
 }
-
+.panel {
+    display: none !important;
+}
 .frame__title {
   font-size: 1rem;
   margin: 0 0 1rem;
